@@ -77,7 +77,7 @@ function pTwo(){
 }
 
 // select the search line that will be showed
-function mouseClicked(){
+function mousePressed(){
     if (notStarted){
         if (mouseX<floor(width/2)){
             pOne();
