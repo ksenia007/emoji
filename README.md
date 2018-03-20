@@ -1,0 +1,1 @@
+https://ksenia007.github.io/emoji/
