@@ -94,8 +94,6 @@ function mouseClicked(){
 }
 
 function draw(){
-
-    print('hello');
     ////////////////////////// Waiting for user input
  
     if (notStarted){
