@@ -1,6 +1,4 @@
 // Encoding: UTF-8
-
-
 //Variables that we are going to use
 var table;
 var tableOne;
@@ -190,5 +188,4 @@ function draw(){
         }
 
 }
-
 }
