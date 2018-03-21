@@ -178,9 +178,10 @@ function draw(){
 
         //add title - search line depending on the one picked
         textFont(fontQ);
-        fill(26, 42, 110, 180);
+        //fill(26, 42, 110, 180);
+        fill(0);
         textAlign(CENTER, CENTER);
-        textSize(62);
+        textSize(42);
         if (pickTwo){
             text("March Madness", floor(width/2),floor(titleTexts));
         }
